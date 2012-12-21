@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Semy's WebBlog]]></title>
+  <link href="http://semy8.github.com/atom.xml" rel="self"/>
+  <link href="http://semy8.github.com/"/>
+  <updated>2012-12-21T17:25:30+08:00</updated>
+  <id>http://semy8.github.com/</id>
+  <author>
+    <name><![CDATA[Semy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[首次使用Octopress]]></title>
+    <link href="http://semy8.github.com/blog/2012/12/21/shou-ci-shi-yong-octopress/"/>
+    <updated>2012-12-21T16:46:00+08:00</updated>
+    <id>http://semy8.github.com/blog/2012/12/21/shou-ci-shi-yong-octopress</id>
+    <content type="html"><![CDATA[<p>首次搭建Octopress，所有步骤下来还是比较简单的，中间也没出现啥问题，这里也有一篇写的特别好的教程，我也无需再写一遍了：http://mrzhang.me/blog/blog-equals-github-plus-octopress.html
+有需要的可以参考上面的链接</p>
+
+<p>不过bolg虽搭建起来，但想把Octopress玩转还任重道远，哈哈~~不过挺有意思的</p>
+]]></content>
+  </entry>
+  
+</feed>
